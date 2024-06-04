@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://owthodo.github.io/sitemap.html
+Sitemap: https://owthodo.github.io/app/sitemap.html
+Sitemap: https://owthodo.github.io/assets/sitemap.html
+Sitemap: https://owthodo.github.io/includes/sitemap.html
+Sitemap: https://owthodo.github.io/src/sitemap.html
